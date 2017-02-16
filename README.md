@@ -1,2 +1,3 @@
 # repos
-this is git repos
+this is git repoistory
+i am using git hub
